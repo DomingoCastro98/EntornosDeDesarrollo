@@ -10,6 +10,8 @@ public class HolaProfe {
 		System.out.println("Hoy voy a suspender programación, ayudame por favor");
 		System.out.println("Ahora hacemos un commir by Matilde");
 		
+		System.out.println("Viva el Córdoba");
+
 	}
 
 }
